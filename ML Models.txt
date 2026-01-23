@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11323933,
+  author={Akhila, A. and Rawat, Ankit and Deepthi, P. and Shashank, Shatraboina and Prithviraj, Jitendra and Yadav, Sanjay},
+  booktitle={2025 IEEE 5th International Conference on ICT in Business Industry & Government (ICTBIG)}, 
+  title={Machine Learning Models for Monitoring Environmental Impact on Public Health}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Adaptation models;Uncertainty;Climate;Predictive models;Transformers;Market research;Spatiotemporal phenomena;Satellite images;Bayes methods;Wearable sensors;RF;SVM;DNN;M-STHEALTH;CNN},
+  doi={10.1109/ICTBIG68706.2025.11323933}}
