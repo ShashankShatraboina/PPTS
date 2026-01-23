@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11323695,
+  author={Kiran Kumar, B. and Maithani, Rekha and Adilakshmi, K. and Shashank, Shatraboina and Bhalla, Romit and Nagar, Mayank},
+  booktitle={2025 IEEE 5th International Conference on ICT in Business Industry & Government (ICTBIG)}, 
+  title={Evaluation of Various ML Models for the Identification of Epileptic Seizures}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Radio frequency;Accuracy;Machine learning algorithms;Epilepsy;Nearest neighbor methods;Brain modeling;Feature extraction;Electroencephalography;Real-time systems;Reliability;GB;LR;SGD;EEG;KNN;DT;NB},
+  doi={10.1109/ICTBIG68706.2025.11323695}}
