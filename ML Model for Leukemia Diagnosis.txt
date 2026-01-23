@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11323688,
+  author={Roy, Vandana and Kumar, R. P. Ram and Shashank, Shatraboina and Gautam, Prakhar and Pandey, Sandeep and Kaushik, G.},
+  booktitle={2025 IEEE 5th International Conference on ICT in Business Industry & Government (ICTBIG)}, 
+  title={An Interpretable Machine Learning Model for Leukemia Diagnosis Using CNN-SVM and Explainable AI}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={White blood cells;Adaptation models;Explainable AI;Morphology;Nearest neighbor methods;Feature extraction;Convolutional neural networks;Medical diagnosis;Medical diagnostic imaging;Overfitting;SVM;NB;LIME;CNN-SVM;XAI;KNN},
+  doi={10.1109/ICTBIG68706.2025.11323688}}
