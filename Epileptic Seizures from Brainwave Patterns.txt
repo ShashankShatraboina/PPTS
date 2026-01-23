@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11323719,
+  author={Gupta, Sudeep Kumar and Sowjanya, G.Durga and Pandey, Laxmi Narayan and Saxena, Rashi and Shashank, Shatraboina and Verma, Vikash},
+  booktitle={2025 IEEE 5th International Conference on ICT in Business Industry & Government (ICTBIG)}, 
+  title={Development of an Automated Deep Learning Framework for Early Detection and Diagnosis of Epileptic Seizures from Brainwave Patterns}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Deep learning;Training;Accuracy;Magnetic resonance imaging;Transfer learning;Epilepsy;Medical services;Brain modeling;Data models;Reliability;ResNet-50;SqueezeNet;MobileNet-V2;SgD;Adam;RMSProp},
+  doi={10.1109/ICTBIG68706.2025.11323719}}
