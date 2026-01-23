@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11324417,
+  author={Shashank, Shatraboina and Yalawar, Mrutyunjaya S},
+  booktitle={2025 4th International Conference on Automation, Computing and Renewable Systems (ICACRS)}, 
+  title={A Study on Electric Vehicles Challenges and its Barriers: A Review}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={273-278},
+  keywords={Industries;Electric potential;Technological innovation;Costs;Transportation;Transforms;Switches;Thermal management;Batteries;Smart charging;Electric Vehicles;Plug-In Hybrid Electric Vehicle;Barriers},
+  doi={10.1109/ICACRS67045.2025.11324417}}
