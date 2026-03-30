@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11441210,
+  author={Shatraboina, Shashank and Upadhyay, Vinod and Shehazad, Mulla Akbar and Chouksey, Praveen},
+  booktitle={2026 International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC)}, 
+  title={A Deep Learning Framework for Automated Road Surface Damage Detection using UAV Imagery}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={553-561},
+  keywords={YOLO;Deep learning;Training;Head;Roads;Autonomous aerial vehicles;Transformers;Ubiquitous computing;Smart systems;Real-time systems;Unmanned aerial vehicles (UAVs);road damage detection;deep learning;object detection},
+  doi={10.1109/ICAUC68182.2026.11441210}}
